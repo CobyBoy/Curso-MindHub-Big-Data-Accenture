@@ -1,1 +1,1 @@
-# Curso-MindHub-Big-Data-Accenture
+# Curso MindHub Big Data Accenture
